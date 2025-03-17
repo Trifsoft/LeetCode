@@ -29,8 +29,3 @@ fun romanToInt(s: String): Int {
     }
     return result
 }
-
-fun main() {
-    val s = "I"
-    print(romanToInt(s))
-}
