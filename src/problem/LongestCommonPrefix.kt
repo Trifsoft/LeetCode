@@ -14,9 +14,3 @@ fun longestCommonPrefix(strs: Array<String>): String {
     }
     return ""
 }
-
-fun main(){
-    print(longestCommonPrefix(arrayOf(
-        "flower", "flow", "flight"
-    )))
-}
